@@ -1,4 +1,5 @@
 # Read the number from the user
+#testing
 num = int(input("Enter a number: "))
 
 # Check if the number is even or odd using the if statement
